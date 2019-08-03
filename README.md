@@ -7,3 +7,9 @@ There are three codes provided here :
 
 for more information check this video on YT:
 https://www.youtube.com/watch?v=N0dCZ37cE5o
+
+
+make sure before uploading the code you edited the offsetTime which will select your country timezone as for me it is 19800
+since my time standerd is UTC+5:30=5.5*60*60=19800
+say yours is UTC+1=1*60*60=3600
+so refer these two examples to get offset time for your time standerd.
